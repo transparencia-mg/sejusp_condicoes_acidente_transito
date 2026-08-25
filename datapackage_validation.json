@@ -1,0 +1,1287 @@
+{
+  "version": "4.16.6",
+  "time": 17.902,
+  "errors": [],
+  "tasks": [
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2012",
+        "path": "data/condicoes_acidente_transito_2012.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "a9b18f27457f254f45a98b1c5b07d57e",
+          "bytes": 19273087,
+          "fields": 8,
+          "rows": 159278
+        }
+      },
+      "time": 1.903,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2013",
+        "path": "data/condicoes_acidente_transito_2013.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "6fb8623a94f5d3177e3ec26a595ae005",
+          "bytes": 18306036,
+          "fields": 8,
+          "rows": 151422
+        }
+      },
+      "time": 1.803,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2014",
+        "path": "data/condicoes_acidente_transito_2014.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "484cf5001632f72bfeb470037c878fd5",
+          "bytes": 16580056,
+          "fields": 8,
+          "rows": 137378
+        }
+      },
+      "time": 1.595,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2015",
+        "path": "data/condicoes_acidente_transito_2015.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "9fe4d56aedb5b946516bf411009d8018",
+          "bytes": 14029867,
+          "fields": 8,
+          "rows": 115766
+        }
+      },
+      "time": 1.347,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2016",
+        "path": "data/condicoes_acidente_transito_2016.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "d345704bf524f7efc584037607620b0c",
+          "bytes": 12633239,
+          "fields": 8,
+          "rows": 104086
+        }
+      },
+      "time": 1.224,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2017",
+        "path": "data/condicoes_acidente_transito_2017.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "14e4f015a85cb5b83e7d04053c115e24",
+          "bytes": 12237669,
+          "fields": 8,
+          "rows": 101027
+        }
+      },
+      "time": 1.173,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2018",
+        "path": "data/condicoes_acidente_transito_2018.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "99ea25fad00ea84342d91f860a50202a",
+          "bytes": 11548714,
+          "fields": 8,
+          "rows": 95332
+        }
+      },
+      "time": 1.112,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2019",
+        "path": "data/condicoes_acidente_transito_2019.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "4a13df5e4bddf3ad176fac4828d77768",
+          "bytes": 11940631,
+          "fields": 8,
+          "rows": 98605
+        }
+      },
+      "time": 1.136,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2020",
+        "path": "data/condicoes_acidente_transito_2020.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "4ef0c0733e5401317fbd41df22f4d296",
+          "bytes": 10032066,
+          "fields": 8,
+          "rows": 82871
+        }
+      },
+      "time": 0.973,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2021",
+        "path": "data/condicoes_acidente_transito_2021.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "2708ef3c63fe6c46af1383b8435ff296",
+          "bytes": 9994032,
+          "fields": 8,
+          "rows": 82439
+        }
+      },
+      "time": 1.124,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2022",
+        "path": "data/condicoes_acidente_transito_2022.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "586a1bf0cf96edc68d0a0d65f896a778",
+          "bytes": 9977476,
+          "fields": 8,
+          "rows": 82395
+        }
+      },
+      "time": 1.005,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2023",
+        "path": "data/condicoes_acidente_transito_2023.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "d223c537020f226cfac539da7503fece",
+          "bytes": 9798374,
+          "fields": 8,
+          "rows": 81065
+        }
+      },
+      "time": 0.943,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2024",
+        "path": "data/condicoes_acidente_transito_2024.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "b40f15124871b6e6bc1074d2875f7ae1",
+          "bytes": 9823635,
+          "fields": 8,
+          "rows": 81226
+        }
+      },
+      "time": 0.952,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2025",
+        "path": "data/condicoes_acidente_transito_2025.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "ee0e3de788fdc90af471aaaa9d1a01eb",
+          "bytes": 10081780,
+          "fields": 8,
+          "rows": 83637
+        }
+      },
+      "time": 0.967,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "condicoes_acidente_transito_2026",
+        "path": "data/condicoes_acidente_transito_2026.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "luminosidade_descricao",
+              "type": "string"
+            },
+            {
+              "name": "condicao_sinalizacao_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_via_descricao",
+              "type": "string"
+            },
+            {
+              "name": "tipo_pavimento_descricao",
+              "type": "string"
+            },
+            {
+              "name": "verificacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "b3bc3a4cd565f317e66e7902ac8c7be8",
+          "bytes": 5656718,
+          "fields": 8,
+          "rows": 46809
+        }
+      },
+      "time": 0.552,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    }
+  ],
+  "stats": {
+    "errors": 0,
+    "tasks": 15
+  },
+  "valid": true
+}
